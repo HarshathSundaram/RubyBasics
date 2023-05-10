@@ -1,0 +1,6 @@
+puts "Hello World"
+puts "    /|"
+puts "   / |"
+puts "  /  |"
+puts " /   |"
+puts "/____|"
